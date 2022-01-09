@@ -1,0 +1,73 @@
+body{
+  margin: 0;
+  padding: 0;
+  
+}
+/* homepage css */
+h1{
+  /* height:100px;
+  width:200px; */
+  text-align: center;
+  color:#1c203b;
+  text-align: center;
+  font-size: 10vmin;
+  font-family: "Sen", sans-serif;
+  color: #1c203b;
+  
+  /* background-color: aquamarine; */
+}
+.Acc-number{
+  text-align: center;
+  padding:20px;
+  border-radius: 5px;
+}
+.Pin-Number{
+  text-align: center;
+  padding: 20px;
+  border-radius: 5px;
+}
+.payment_portal{
+  text-align: center;
+  font-size: x-large;
+}
+.portal-items{
+  padding: 5px;
+}
+.SubmitButton{
+  background-color: black;
+  color: white;
+  padding: 2px;
+  border-radius: none;
+  cursor: pointer;
+  margin-top: 4%;
+}
+.SubmitButton:hover{
+  background-color: transparent;
+  border: 2px solid black;
+  color: #1c203b ;
+  transition:  all 0.2s ease;
+
+}
+.Beneficiary{
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-height:  500px;
+  padding: 10px;
+  margin:auto;
+  width: 100%;
+  display:block;
+}
+.box{
+  text-align: center;
+  height: 500px;
+  width:350px;
+  border-radius: 2%;
+  border: 2px solid black;
+  margin-top: 100px;
+}
+.sender .Message .Amount .Time .AccNo {
+  display: block;
+}
+h3{
+  text-align: center;
+}
